@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tarık",
+    "surname": "Koç",
+    "username": "tarikkoc",
+    "password": "tarikkoc"
+  },
+  {
+    "name": "Ekin",
+    "surname": "Köseoğlu",
+    "username": "ekose",
+    "password": "ekose"
+  },
+  {
+    "name": "Veli",
+    "surname": "Kavlak",
+    "username": "velikavlak",
+    "password": "veli123"
+  },
+  {
+    "name": "Necip ",
+    "surname": "Uysal",
+    "username": "necipuysal",
+    "password": "neco123"
+  },
+  {
+    "name": "Ahmet",
+    "surname": "Can",
+    "username": "acan123",
+    "password": "acan123"
+  }
+]

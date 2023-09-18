@@ -1,0 +1,8 @@
+[
+    { "name": "Gündem", "link": "/gundem" },
+    { "name": "Dünya", "link": "/dunya" },
+    { "name": "Finans", "link": "/finans" },
+    { "name": "Spor", "link": "/spor" },
+    { "name": "Teknoloji", "link": "/teknoloji" },
+    { "name": "Eğitim", "link": "/egitim" }
+]
